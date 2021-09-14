@@ -3,3 +3,4 @@
 1. Doctor Dum
 2. Mega Mente
 3. Lex Lutor
+4. Rino
